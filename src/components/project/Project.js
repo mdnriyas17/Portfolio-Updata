@@ -27,7 +27,7 @@ function Project() {
     //     {
     //       name: "React",
     //   link: "https://img.icons8.com/officel/40/react.png",
-   
+
     //     },
     //     {
     //       name: "redux-toolkit",
@@ -119,18 +119,18 @@ function Project() {
       key: ["javascript", "all", "mockApi"],
       img: "./asset/project/weather-icons-collection_1167-124.png",
       title: "Weather App",
-      githubFrontEnd: "https://github.com/mdnriyas17/Postman-app",
+      githubFrontEnd: "https://github.com/mdnriyas17/rest",
       githubBackEnd: "",
-      sourceCode: "https://chimerical-pothos-f79cba.netlify.app/",
+      sourceCode: "https://dazzling-flan-3e6118.netlify.app/",
       shortNote:
         "The app is used to Know the Weather of All Country.",
       longNote: [
-       
+
         "This is my first **JavaScript DOM rendering** project. And main feature of the website is the **search option** and **HTML** elements are **rendered only JavaScript DOM**.",
         "The application is made using **HTML** and styled using **CSS** and this website uses **JavaScript** for **dynamic loading**.",
         "I have  used **mock api** in **Weather App** and this it is used to given any Country they give they **which Region that Country can be located and give Weather**.",
         "This  **website is responsive** for **all screen size**.",
-        
+
       ],
       skills: [
         {
@@ -152,7 +152,7 @@ function Project() {
       ],
     },
     {
-      key: ["javascript", "all","react"],
+      key: ["javascript", "all", "react"],
       img: "./asset/project/images.png",
       title: "Home Budget",
       githubFrontEnd: "https://github.com/mdnriyas17/webcode-2",
@@ -161,17 +161,17 @@ function Project() {
       shortNote:
         "The app is used to Plan the Money-Management.",
       longNote: [
-       
+
         "This is my first **Recat** project. And main feature of the website is the **Create Account**.",
         "The application is made using **React** and styled using **CSS** and this website uses **JavaScript** for **dynamic loading**.",
         "I have  used **React** in **Home-Budget** and this it is used to Plan All income and expences**.",
         "This  **website is responsive** for **all screen size**.",
-        
+
       ],
       skills: [
         {
           name: "React",
-      link: "https://img.icons8.com/officel/40/react.png",
+          link: "https://img.icons8.com/officel/40/react.png",
         },
         // {
         //   name: "HTML5",
@@ -219,7 +219,7 @@ function Project() {
     //   img: "./asset/project/urlShort.png",
     //   title: "Money-Management",
     //   githubFrontEnd: "https://github.com/mdnriyas17/webcode-2",
-      
+
     //   sourceCode: "https://fanciful-dolphin-6a5a2f.netlify.app/",
     //   shortNote:
     //     "Ticket booking is a process of selecting and making reservations for the cinema in a particular theatre via the online source.",
@@ -237,15 +237,15 @@ function Project() {
     //       name: "React",
     //   link: "https://img.icons8.com/officel/40/react.png",
     //     },
-        
+
     //     {
     //       name: "Bootstrap",
     //       link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
     //     },
-       
+
     //   ],
     // },
-    
+
     {
       key: ["javascript", "all", "mockApi"],
       img: "./asset/project/postman.png",

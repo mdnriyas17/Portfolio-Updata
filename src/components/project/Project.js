@@ -14,7 +14,7 @@ function Project() {
         "https://github.com/mdnriyas17/booking-f/tree/main",
       githubBackEnd:
         "https://github.com/mdnriyas17/booking-b",
-      sourceCode: "https://comforting-basbousa-b02e94.netlify.app/",
+      sourceCode: "https://65013cd79e8d9a36fbd2219d--singular-kangaroo-6962d6.netlify.app/",
       shortNote:
         "I built a Bookmyshow web application for Movie Ticket Booking.",
       longNote: [

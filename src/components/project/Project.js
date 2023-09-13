@@ -303,7 +303,7 @@ function Project() {
     <Element name="project">
       <div className=" project">
         <h1>
-          My Recent <span className="project-highlight">Works</span>
+          My Recent <span className="project-highlight">Works{setValue}</span>
         </h1>
 
         <div className="row project-container">

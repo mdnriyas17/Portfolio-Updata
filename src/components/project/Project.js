@@ -98,6 +98,48 @@ function Project() {
       ],
     },
     {
+      key: ["react", "express", "all", "restApi", "mern", "node"],
+      img: "./asset/project/cms.png",
+      title: "Money Management ",
+      githubFrontEnd:
+        "https://github.com/mdnriyas17/cms-client",
+      githubBackEnd:
+        "https://github.com/mdnriyas17/cms-server",
+      sourceCode: "https://main--startling-seahorse-338dd2.netlify.app",
+      shortNote:
+        "I built an app for Money management for Calculate Income and Expenses.",
+      longNote: [
+        "The frontend is built using **React** with **Bootstrap** for styling. The backend is build with **Node.js**. **Express.js** and used **MongoDB** as database.",
+        "This app used for **Money management**, To Calculate**Income** and **Expenses** details.",
+        "I have add **Income and** feature. If the **users** is **Add**  it will display the Income and Expenses **data**. ",
+
+      ],
+      skills: [
+        {
+          name: "React",
+          link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg",
+        },
+        {
+          name: "Node",
+          link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+        },
+        {
+          name: "Express",
+          link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+        },
+        {
+          name: "Mongo DB",
+          link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg",
+        },
+
+        {
+          name: "Bootstrap",
+          link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+        },
+
+      ],
+    },
+    {
       key: ["javascript", "all", "mockApi"],
       img: "./asset/project/weather-icons-collection_1167-124.png",
       title: "Weather App",
@@ -144,7 +186,7 @@ function Project() {
         "The app is used to Plan the Money-Management.",
       longNote: [
 
-        "This is my first **Recat** project. And main feature of the website is the **Create Account**.",
+        "This is my first **React** project. And main feature of the website is the **Create Account**.",
         "The application is made using **React** and styled using **CSS** and this website uses **JavaScript** for **dynamic loading**.",
         "I have  used **React** in **Home-Budget** and this it is used to Plan All income and expences**.",
         "This  **website is responsive** for **all screen size**.",

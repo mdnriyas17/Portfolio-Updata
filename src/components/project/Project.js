@@ -99,13 +99,13 @@ function Project() {
     },
     {
       key: ["react", "express", "all", "restApi", "mern", "node"],
-      img: "./asset/project/cms.png",
+      img: "./asset/project/money.png",
       title: "Money Management ",
       githubFrontEnd:
-        "https://github.com/mdnriyas17/cms-client",
+        "https://github.com/mdnriyas17/money-frontend",
       githubBackEnd:
-        "https://github.com/mdnriyas17/cms-server",
-      sourceCode: "https://main--startling-seahorse-338dd2.netlify.app",
+        "https://github.com/mdnriyas17/money-backend",
+      sourceCode: "https://6502c4aaab324832dd1a56d0--clinquant-quokka-698c7d.netlify.app/",
       shortNote:
         "I built an app for Money management for Calculate Income and Expenses.",
       longNote: [

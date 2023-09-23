@@ -52,51 +52,51 @@ function Project() {
 
       ],
     },
-    {
-      key: ["react", "express", "all", "restApi", "mern", "node", "JWT"],
-      img: "./asset/project/cms.png",
-      title: "Content Management System",
-      githubFrontEnd:
-        "https://github.com/mdnriyas17/cms-client",
-      githubBackEnd:
-        "https://github.com/mdnriyas17/cms-server",
-      sourceCode: "https://main--startling-seahorse-338dd2.netlify.app",
-      shortNote:
-        "I built an app for shop inventory management for billing.",
-      longNote: [
-        "The frontend is built using **React** with **Bootstrap** for styling. The backend is build with **Node.js**. **JWT** for login, **Express.js** and used **MongoDB** as database.",
-        "This app used for **Content management**, To **Show the Content** and **Content** details.",
-        "I have add **login/logout** feature. If the **users** is **logged in**  it will dissplay the users **data**. ",
+    // {
+    //   key: ["react", "express", "all", "restApi", "mern", "node", "JWT"],
+    //   img: "./asset/project/cms.png",
+    //   title: "Content Management System",
+    //   githubFrontEnd:
+    //     "https://github.com/mdnriyas17/cms-client",
+    //   githubBackEnd:
+    //     "https://github.com/mdnriyas17/cms-server",
+    //   sourceCode: "https://main--startling-seahorse-338dd2.netlify.app",
+    //   shortNote:
+    //     "I built an app for shop inventory management for billing.",
+    //   longNote: [
+    //     "The frontend is built using **React** with **Bootstrap** for styling. The backend is build with **Node.js**. **JWT** for login, **Express.js** and used **MongoDB** as database.",
+    //     "This app used for **Content management**, To **Show the Content** and **Content** details.",
+    //     "I have add **login/logout** feature. If the **users** is **logged in**  it will dissplay the users **data**. ",
 
-      ],
-      skills: [
-        {
-          name: "React",
-          link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg",
-        },
-        {
-          name: "Node",
-          link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
-        },
-        {
-          name: "Express",
-          link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
-        },
-        {
-          name: "Mongo DB",
-          link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg",
-        },
+    //   ],
+    //   skills: [
+    //     {
+    //       name: "React",
+    //       link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg",
+    //     },
+    //     {
+    //       name: "Node",
+    //       link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+    //     },
+    //     {
+    //       name: "Express",
+    //       link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+    //     },
+    //     {
+    //       name: "Mongo DB",
+    //       link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg",
+    //     },
 
-        {
-          name: "Bootstrap",
-          link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
-        },
-        {
-          name: "JWT",
-          link: "./asset/jwt.svg",
-        },
-      ],
-    },
+    //     {
+    //       name: "Bootstrap",
+    //       link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+    //     },
+    //     {
+    //       name: "JWT",
+    //       link: "./asset/jwt.svg",
+    //     },
+    //   ],
+    // },
     {
       key: ["react", "express", "all", "restApi", "mern", "node"],
       img: "./asset/project/money.png",
